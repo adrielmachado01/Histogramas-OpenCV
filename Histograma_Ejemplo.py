@@ -1,4 +1,6 @@
+#////////////////// Repositorio en GitHub por: Adriel Machado //////////////////////////////////
 #La persona que sabe manejar el "histograma" sabe diseñar un buen sistema de vision artificial
+#Version 1.0 de histograma con cv2
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
